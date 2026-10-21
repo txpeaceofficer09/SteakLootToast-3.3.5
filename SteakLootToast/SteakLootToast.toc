@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: Steak Loot Toast
+## Notes: Personal loot toast notifications with sound
+## Author: Soonbesteak
+## Version: 1.0.0
+Core.lua
